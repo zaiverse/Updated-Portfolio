@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+}
+
+.container{
+    height: auto;
+    width: 100%;
+}
+
+h4{
+    font-family: 'Fredericka the Great', cursive;
+    color: white;
+    font-size: 70px;
+}
+
+h6{
+    font-family: 'Fredericka the Great', cursive;
+    color: white;
+    font-size: 40px;
+}
+h5{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 28px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+p{
+    font-family: 'Amatic SC', cursive;
+    font-size: 27px;
+    text-align: center;
+}
+.color{
+    color: white;
+}
+
+.fixPlace{
+    padding-top: 20px;
+    text-decoration: underline;
+}
+
+.aboutMe{
+    padding-top: 80px;
+    padding-bottom: 15vh;
+}
+
+.entry{
+    margin: 0;
+    background-image: url("https://media.boingboing.net/wp-content/uploads/2018/05/cool-background1.png");
+    background-size: cover;
+    background-position: center center;
+    height: 50vh;
+    width: 100%;
+    text-align: center;
+}
+
+.introText{
+    padding-top: 15vh;
+}
+
+.card {
+    margin-right: 40px;/* Added */
+    float: left; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.card1{
+    background-color: #945d118a;
+}
+
+.card2{
+    background-color: rgb(184, 58, 93);
+    
+}
+
+.card3{
+    background-color: rgb(165, 45, 180);
+}
+
+.recentprojects{
+    margin-bottom: 30vh;
+}
+
+.contact{
+    background-image: url("https://media.boingboing.net/wp-content/uploads/2018/05/cool-background1.png");
+    background-size: cover;
+    background-position: center center;
+    height: 20vh;
+    width: 100%;
+    text-align: center;
+}
