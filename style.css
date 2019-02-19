@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    padding: 0;
 }
 
 html{
@@ -74,15 +75,18 @@ p{
 
 .card1{
     background-color: #945d118a;
+    text-align: center;
 }
 
 .card2{
     background-color: rgb(184, 58, 93);
+    text-align: center;
     
 }
 
 .card3{
     background-color: rgb(165, 45, 180);
+    text-align: center;
 }
 
 .recentprojects{
@@ -96,4 +100,20 @@ p{
     height: auto;
     width: 100%;
     text-align: center;
+    padding-bottom: 20px;
+}
+
+.buttonsFirstCard{
+    background-color: #945d118a;
+    border: none;
+}
+
+.buttonsSecondCard{
+    background-color: rgb(197, 100, 128);
+    border: none;
+}
+
+.buttonsThirdCard{
+    background-color: rgb(185, 105, 196);
+    border: none;
 }
