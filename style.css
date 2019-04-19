@@ -68,9 +68,9 @@ p{
 }
 
 .card {
-    margin-right: 40px;/* Added */
-    float: left; /* Added */
-    margin-bottom: 10px; /* Added */
+    margin-right: 40px;
+    float: left;
+    margin-bottom: 10px; 
 }
 
 .card1{
